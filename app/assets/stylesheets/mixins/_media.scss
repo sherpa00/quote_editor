@@ -1,0 +1,15 @@
+// app/assets/stylesheets/mixins/_media.scss
+
+// mixins/_media.scss
+@mixin media($breakpoint) {
+  @if $breakpoint == tabletAndUp {
+    @media (min-width: 768px) {
+      @content;
+    }
+  }
+  @if $breakpoint == desktopAndUp {
+    @media (min-width: 1024px) {
+      @content;
+    }
+  }
+}
