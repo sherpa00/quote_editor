@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple project to further help me learn about Hotwire and its frameworks. It basically lets you share/edit your quotes.
 
-Things you may want to cover:
+Things i learned from this project:
 
-* Ruby version
+- Hotwire
 
-* System dependencies
+- Turbo Drive
 
-* Configuration
+- Turbo Frames
 
-* Database creation
+- Turbo Stream
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Scss Css preprocessor ( should have used tailwindcss)
